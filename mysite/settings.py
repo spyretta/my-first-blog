@@ -25,7 +25,7 @@ SECRET_KEY = 'hq%)nj@$7vkw%_c3x6w!56q%+f&w5j9-zg%4ds5f3$94^k77fh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','spyretta.pythonanywhere.com']
 
 
 # Application definition
